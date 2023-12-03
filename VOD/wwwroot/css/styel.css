@@ -1,0 +1,386 @@
+@font-face {
+    font-family: iransans;
+    src: url(../fonts/iransans/woff/IRANSansWeb.woff);
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url(../fonts/shabnam/Farsi-Digits/Shabnam-Bold-FD.ttf);
+}
+
+body * {
+    direction: rtl !important;
+    font-family: Shabnam !important;
+    color: #224563;
+}
+
+
+
+/* navbar  start */
+.navbar-container nav {
+    background-color: rgb(54, 193, 200) !important;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.navbar-container .nav-item a {
+    font-weight: bold;
+    color: white !important;
+}
+
+.navbar-container .nav-item.active a {
+    font-weight: bold;
+}
+
+/* navbar  end */
+
+.section-1 {
+    display: flex;
+    box-sizing: border-box;
+    width: 80%;
+}
+
+.main-video {
+    width: 75%;
+    /* min-width: 400px; */
+    height: 530px;
+    background-color: rgb(209, 219, 219, 0.6);
+    border-radius: 4px;
+    padding: 12px;
+    margin: 16px 16px 8px 8px;
+}
+
+.sub-video {
+    width: 30%;
+    min-width: 200px;
+    height: 530px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    font-size: 12px;
+    background-color: rgb(209, 219, 219, 0.6);
+    border-radius: 4px;
+    padding: 12px;
+    margin: 16px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 2000px;
+    padding: 16px;
+}
+
+.sub-video-item {
+    display: flex;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.sub-video-item:hover {
+    background-color: rgb(209, 219, 220);
+}
+
+.sub-video-item.selected {
+    background-color: rgb(209, 219, 220, 0.65);
+}
+
+.main-title {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.like-view {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 130px;
+}
+
+.like-view div {
+    font-size: 12px;
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    text-align: center;
+}
+
+.like-view .view {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    width: 50px;
+}
+
+.like-view .view .count {
+    margin-left: 8px;
+    font-size: 16px;
+}
+
+.share-icon {
+    background-image: url('../iconImage/share.png');
+    background-size: cover;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.like-icon {
+    background-image: url("../iconImage/nolike.png");
+    background-size: cover;
+    margin-left: 8px;
+    cursor: pointer;
+}
+.liked {
+    background-image: url("../iconImage/like.png");
+}
+
+.view-icon {
+    background-image: url("../iconImage/eye.png");
+    background-size: cover;
+}
+
+.comment-name span {
+    background-color: white;
+    margin: 8px 0;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.comment-text {
+    margin: 8px 0 16px 0;
+}
+
+.comments-container {
+    background-color: rgb(209, 219, 219, 0.6);
+    font-size: 13px;
+    padding: 12px;
+    border-radius: 4px;
+}
+
+.comment-line {
+    border: 1px solid white;
+    margin: 16px 0;
+}
+
+.comment-item:last-child .comment-line {
+    display: none;
+}
+
+.comments-container .title {
+    font-size: 14px;
+    margin-bottom: 16px;
+}
+
+.your-comment {
+    background-color: rgb(209, 219, 219, 0.6);
+    padding: 12px;
+    margin-bottom: 24px;
+    border-radius: 4px;
+}
+
+#input-name,
+#input-text {
+    display: block;
+    width: 100%;
+    border: none;
+    margin-bottom: 8px;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+#input-name:focus,
+#input-text:focus {
+    outline: none;
+}
+
+.your-comment button {
+    font-size: 13px;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    padding: 4px 8px;
+    background-color: #214563;
+    border-style: none;
+    border: none;
+    cursor: pointer;
+}
+
+.your-comment button:focus {
+    outline: none;
+}
+
+.submit-container {
+    text-align: left;
+}
+
+.main-video-item video {
+    width: 100%;
+    height: auto;
+    max-height: 450px;
+    overflow: hidden;
+}
+
+.sub-video-item video {
+    width: 160px;
+    height: 80px
+}
+
+.main-title .text {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 40px;
+    padding-left: 16px;
+}
+
+.section-2 {
+    box-sizing: border-box;
+    width: 80%;
+    padding: 8px 16px;
+}
+
+.section-2 .inner-container {
+    width: 70%;
+}
+
+.your-comment-text {
+    margin: 8px auto;
+    font-weight: 700;
+}
+
+.navbar-logo {
+    background-image: url(../iconImage/logo.png);
+    width: 32px;
+    height: 32px;
+    background-position: center;
+    background-size: cover;
+}
+
+.footer-logo {
+    background-image: url(../iconImage/logo-footer.png);
+    width: 32px;
+    height: 32px;
+    background-position: center;
+    background-size: cover;
+    margin-right: calc(50% - 16px);
+}
+
+.footer {
+    height: 60px;
+    text-align: center;
+}
+
+.footer-text {
+    text-align: center;
+}
+
+.bg-style {
+    position: fixed;
+    z-index: -10;
+    background-image: url(../iconImage/bg2.jpg);
+    height: 650px;
+    width: 100%;
+    top: 0;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Works on Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #a9b1b1 #fff;
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    background: #fff;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #a9b1b1;
+    border-radius: 20px;
+    border: 3px solid #fff;
+}
+
+::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #c2caca;
+    opacity: 1;
+    /* Firefox */
+}
+
+@media only screen and (max-width: 992px) {
+    .section-1 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-left: 32px;
+        padding: 0 16px;
+    }
+
+    .sub-video {
+        width: 100%;
+    }
+
+    .section-2 .inner-container {
+        width: 100%;
+    }
+
+    .main-video {
+        width: 100%;
+        height: 50%;
+    }
+
+    .bg-style {
+        position: fixed;
+        background-image: url(../iconImage/bg1.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+}
+
+@media only screen and (max-width: 1600px) {
+    .section-1 {
+        width: 100%;
+    }
+
+    .section-2 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+    .sub-video-item {
+        padding: 0;
+    }
+
+    .main-video {
+        height: 430px;
+    }
+
+    .sub-video {
+        height: 430px;
+    }
+
+    .main-video-item video {
+        max-height: 360px;
+    }
+
+    .sub-video-item video {
+        width: 120px;
+        height: 60px
+    }
+}

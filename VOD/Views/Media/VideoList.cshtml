@@ -1,0 +1,244 @@
+﻿@using System.Text.Json
+@model List<MediaItem>
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+@{
+    ViewData["Title"] = "VideoList";
+    var requireAuthentication = Configuration["Authentication:RequireAuthentication"];
+}
+
+<link rel="stylesheet" href="~/New-UI/css/bootstrap.rtl.min.css">
+<link rel="stylesheet" href="~/New-UI/css/RokaStyle.css">
+<script src="~/New-UI/js/jquery-3.6.0.min.js"></script>
+<script src="~/New-UI/js/bootstrap.bundle.min.js"></script>
+<script src="~/New-UI/js/RokaJs.js"></script>
+<script src="~/videojs/video.js"></script>
+<link href="~/videojs/video-js.css" rel="stylesheet" />
+
+
+<!-- main section -->
+<div class="main-container">
+    <main class="main">
+        <div class="bg-style"></div>
+        <div class="section-1">
+            <!-- main-video -->
+            <div class="main-video"></div>
+            <!-- sub-video -->
+            <div class="sub-video"></div>
+        </div>
+        
+        <div class="section-2">
+            <div class="inner-container">
+                <div class="your-comment">
+                    <div class="your-comment-text">نظر شما</div>
+                    <div>
+                        <input id="input-name" placeholder="نام" 
+                               @(bool.Parse(requireAuthentication) ? "" : "hidden") />
+
+                        <textarea rows="4" id="input-text" placeholder="نظر خود را وارد کنید"></textarea>
+                        <div class="submit-container"><button id="submit">ثبت نظر</button></div>
+                    </div>
+                </div>
+                <div class="comments-container">
+                    <div class="title">نظرات</div>
+                    <div class="comments"></div>
+                </div>
+            </div>
+        </div>
+    </main>
+</div>
+
+@section scripts {
+    <script>
+        const list = @Html.Raw(JsonSerializer.Serialize(Model));
+        var id = 0;
+        
+        let selectedVideo = null;
+        const getPartString = (partNumber) => {
+            const parts = ['قسمت اول', 'قسمت دوم', 'قسمت سوم', 'قسمت چهارم', 'قسمت  پنجم'];
+            return partNumber <= parts.length ? parts[partNumber - 1] : partNumber.toString();
+        };
+
+        $(document).ready(function () {
+            console.log("Document ready");
+        
+            appendMainVideo(list[id]);
+            list.forEach(function (item, index) {
+            console.log("Appending sub-video item:", item);
+            const partString = getPartString(item.Part);
+            $(".sub-video").append(`
+                 <div id="${index}" mainId="${item.Id}" class="sub-video-item">
+                    <div>
+                        <img src="${item.ImageUrl}" alt="${item.Title}" style="max-width: 85%; max-height: 100px;">
+                    </div>
+                    <div>
+                        <div class="title">${item.Title} -</div>
+                        سخنران:
+                        <span class="speaker">${item.Speaker}</span>
+                        -
+                        <span class="part">${partString}</span>
+                    </div>
+                </div>`);
+
+                if (index === id) {
+                    $(".sub-video-item").addClass('selected');
+                    selectedVideo = item;
+                }
+            });
+            
+
+            $(".sub-video-item").on("click", function () {
+                console.log("Sub-video item clicked");
+
+                $(".selected").removeClass('selected');
+                id = $(this).attr('id');
+                mainId = $(this).attr('mainId');
+                $(this).addClass('selected');
+                selectedVideo = list[id];
+                $(".comment-item").remove();
+                $(".main-video-item").remove();
+                $.ajax({
+                    url: '/Media/UpdateViews',
+                    type: 'POST',
+                    data: { videoId: mainId },
+                    success: function (data) {
+                        console.log(data.message);
+                    },
+                    error: function () {
+                        console.log('Error updating views');
+                    }
+                });
+                appendMainVideo(list[id]);
+            });
+
+            $("#submit").on("click", function () {
+                 var inputName = $("#input-name").val();
+                 var inputText = $("#input-text").val();
+                 
+                 var requireAuthentication = @(bool.Parse(Configuration["Authentication:RequireAuthentication"]).ToString().ToLower());
+                 
+                // Check if inputName is empty
+                if (!inputName.trim()) {
+                    // Check if authentication is required and inputName is still empty
+                    if (requireAuthentication) {
+                        console.log('Error: Please enter a name.');
+                        return; // or display an error message as needed
+                    } else {
+                        inputName = "unknown";
+                    }
+                }
+
+                if (inputName && inputText) {
+                // Check if a video is selected
+                 if (selectedVideo) {
+                 // Make an AJAX request to add a comment
+                        $.ajax({
+                            url: '/Media/AddComment',
+                            type: 'POST',
+                            data: {
+                                videoId: selectedVideo.Id,
+                                name: inputName,
+                                text: inputText
+                            },
+                            success: function (data) {
+                                console.log(data.message);
+
+                                // Update the UI with the new comment
+                                $(".comments").append(`
+                                <div class="comment-item">
+                                    <div class="comment-name"><span>${inputName}</span></div>
+                                    <div class="comment-text">${inputText}</div>
+                                    <div class="comment-line"></div>
+                                </div>`);
+
+                                // Clear the input fields after submitting a comment
+                                $("#input-name").val('');
+                                $("#input-text").val('');
+                            },
+                            error: function () {
+                                console.log('Error adding comment');
+                            }
+                        });
+                    } else {
+                        console.log('No video selected.');
+                    }
+                } else {
+                    console.log('وارد نمودن نام کاربر برای ثبت نظر الزامیست.');
+                }
+            });
+        });
+
+        const appendMainVideo = (item) => {
+            const partString = getPartString(item.Part);
+            console.log(item)
+            $(".main-video").append(`
+                            <div class="main-video-item" data-video-id="${item.Id}">
+
+                            <div class="stream-container single-stream row">
+                                 <div id="participant" class="other multiple" style="padding: 0;">
+                                    <video class="video-js vjs-default-skin" controls preload="auto" width="100%"
+                                       height="100%" data-setup='{}' style="width:100%; height:100%;">
+                                                  <source src="${item.VideoUrl}" type='video/mp4'>
+                                                  <source src="${item.VideoUrl}" type='rtmp/mp4'>
+                                                  <source src="${item.VideoUrl}" type="application/x-mpegURL" />
+                                    </video> 
+                               </div>
+                            </div>
+                            
+                                    <div class="main-title">
+                                        <div class="text">
+                                            <span>${item.Title}</span>
+                                            -
+                                            سخنران:
+                                            <span>${item.Speaker}</span>
+                                            -
+                                            <span>${partString}</span>
+                                        </div>
+                                        <div class="like-view">
+                                            <div class="share-icon"></div>
+                                            <div class="like-icon"></div>
+                                            <div class="view">
+                                                <div class="count">${item.Views}</div>
+                                                <div class="view-icon"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>`)
+                                
+            if (item.Comments) {
+                item.Comments.forEach(function (x) {
+                    $(".comments").append(`
+                            <div class="comment-item">
+                                        <div class="comment-name"><span>${x.UserName}</span></div>
+                                        <div class="comment-text">${x.Text}</div>
+                                <div class="comment-line"></div>
+                            </div>`);
+                });
+            } else {
+                console.log('No comments available for this video.');
+            }
+
+            $(".like-icon").on("click", function () {
+                const videoId = $(this).closest('.main-video-item').data('video-id');
+                const isLiked = $(this).hasClass('liked');
+
+                // Toggle the 'liked' class
+                $(this).toggleClass('liked');
+
+                // Make an AJAX request to update likes
+                $.ajax({
+                    url: '/Media/UpdateLikes',
+                    type: 'POST',
+                    data: { videoId: videoId, liked: !isLiked },
+                    success: function (data) {
+                        console.log(data.message);
+                    },
+                    error: function () {
+                        console.log('Error updating likes');
+                    }
+                });
+            });
+        }
+
+    </script>
+}

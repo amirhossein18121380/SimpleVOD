@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VOD", "VOD\VOD.csproj", "{F8E4D735-BF5B-4907-9044-6885D399EFA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8E4D735-BF5B-4907-9044-6885D399EFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E4D735-BF5B-4907-9044-6885D399EFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E4D735-BF5B-4907-9044-6885D399EFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E4D735-BF5B-4907-9044-6885D399EFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53F4ED9-52A3-44B9-92D8-BBEE7B3DEDB2}
+	EndGlobalSection
+EndGlobal

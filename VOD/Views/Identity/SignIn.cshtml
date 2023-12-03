@@ -1,0 +1,48 @@
+﻿@model SignInViewModel
+
+@{
+    ViewData["Title"] = "SignIn";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <h2 class="text-center mb-4">ورود</h2>
+
+            <form asp-action="SignIn" method="post" class="needs-validation" novalidate>
+
+                @Html.ValidationSummary()
+
+                <div class="mb-3">
+                    <label for="Email" class="form-label">ایمیل</label>
+                    <input type="text" asp-for="Email" class="form-control" required />
+                    <div class="invalid-feedback">Please enter your email.</div>
+                </div>
+
+                <div class="mb-3">
+                    <label for="Password" class="form-label">پسورد</label>
+                    <input type="password" asp-for="Password" class="form-control" required />
+                    <div class="invalid-feedback">Please enter your password.</div>
+                </div>
+
+                <button type="submit" class="btn btn-primary">ورود</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+    
+        document.addEventListener('DOMContentLoaded', function () {
+            var form = document.querySelector('.needs-validation');
+            form.addEventListener('submit', function (event) {
+                if (!form.checkValidity()) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                }
+                form.classList.add('was-validated');
+            }, false);
+        });
+    </script>
+}

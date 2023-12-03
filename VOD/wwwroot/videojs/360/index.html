@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Tejarat Bank Media Services</title>
+
+  <link href="http://view.tejaratbank.ir/video-js.css" rel="stylesheet">
+  <script src="http://view.tejaratbank.ir/video.js"></script>
+  <style>
+    body {
+      background: url("tv_bg.jpg") center 0 no-repeat;
+      text-align: center;
+      padding: 0 0 50px;
+    }
+
+    #myStream {
+        position: relative;
+        margin: 250px auto 0;
+    }
+  </style>
+</head>
+<body>
+
+  <video class="video-js vjs-default-skin" autoplay="true" controls preload="auto" width="640" height="360"
+           data-setup='{}'>
+        <source src="rtmp://stream1.roka-co.com:1935/live5/makaron_360p?wowzatokenendtime=1649776304&wowzatokenhash=Oi4Vb3pfDPV7ND92HK8zJ9Wp0QGsjyYc05FAbIiI288=" type='rtmp/mp4'>
+        <source src="http://stream1.roka-co.com:1935/live5/makaron_360p/playlist.m3u8?wowzatokenendtime=1649776737&wowzatokenhash=q67WxCasSHgh8tLktXWp02vEdw_NFlmjq6pHdYktz8Q=" type="application/x-mpegURL" />
+    </video> 
+
+
+    <script>
+    var myPlayer = videojs('myStream', {}, function(){
+          var player = this;
+          player.on("pause", function () {
+
+            player.one("play", function () {
+              consoel.log(this);
+              player.load();
+              player.play();
+            });
+          });
+        });
+    </script>
+
+</body>
+</html>

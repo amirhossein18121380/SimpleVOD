@@ -1,0 +1,2617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\VOD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VOD.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\New-UI\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\css\\RokaStyle.css",
+      "PackagePath": "staticwebassets\\New-UI\\css\\RokaStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\New-UI\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\New-UI\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\New-UI\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\New-UI\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\New-UI\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\New-UI\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\New-UI\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\css\\video-js.css",
+      "PackagePath": "staticwebassets\\New-UI\\css\\video-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\css\\video-js.min.css",
+      "PackagePath": "staticwebassets\\New-UI\\css\\video-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\fonts\\ew.eot",
+      "PackagePath": "staticwebassets\\New-UI\\fonts\\ew.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\fonts\\ew.svg",
+      "PackagePath": "staticwebassets\\New-UI\\fonts\\ew.svg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\fonts\\ew.ttf",
+      "PackagePath": "staticwebassets\\New-UI\\fonts\\ew.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\fonts\\ew.woff",
+      "PackagePath": "staticwebassets\\New-UI\\fonts\\ew.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\fonts\\iransans-fonts\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\New-UI\\fonts\\iransans-fonts\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\fonts\\iransans-fonts\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\New-UI\\fonts\\iransans-fonts\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\fonts\\iransans-fonts\\woff\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\New-UI\\fonts\\iransans-fonts\\woff\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\X-active.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\X-active.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\X.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\X.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\bank-saman1.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\bank-saman1.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\bg-mobile.jpg",
+      "PackagePath": "staticwebassets\\New-UI\\images\\bg-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\bg.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\chat.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\chat.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\crouse.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\crouse.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\equal-ico.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\equal-ico.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\img-temp.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\img-temp.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\microphone.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\microphone.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\nilper.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\nilper.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\palm-of-hand.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\palm-of-hand.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\paperclip.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\paperclip.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\roka-logo.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\roka-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\sadad.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\sadad.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\share-desktop.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\share-desktop.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\times-solid.svg",
+      "PackagePath": "staticwebassets\\New-UI\\images\\times-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\tosan.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\tosan.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\unequal-ico.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\unequal-ico.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\user1.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\images\\video-camera.png",
+      "PackagePath": "staticwebassets\\New-UI\\images\\video-camera.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\RokaJs.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\RokaJs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\video.cjs.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\video.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\video.es.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\video.es.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\video.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\video.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\video.min.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\videojs-contrib-hls.min.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\videojs-contrib-hls.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\New-UI\\js\\videojs-ie8.min.js",
+      "PackagePath": "staticwebassets\\New-UI\\js\\videojs-ie8.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\css\\styel.css",
+      "PackagePath": "staticwebassets\\css\\styel.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\Shabnam-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Shabnam-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb_Black.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb_Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb_Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb_Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb_Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb_Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb_Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb_Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Thin.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Thin.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Thin.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\fontnegar.ir.url",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\fontnegar.ir.url"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\fontnegar.png",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\fontnegar.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\fonts\\shabnam\\read me!.txt",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\read me!.txt"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\iconImage\\bg1.jpg",
+      "PackagePath": "staticwebassets\\iconImage\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\iconImage\\bg2.jpg",
+      "PackagePath": "staticwebassets\\iconImage\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\iconImage\\eye.png",
+      "PackagePath": "staticwebassets\\iconImage\\eye.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\iconImage\\like.png",
+      "PackagePath": "staticwebassets\\iconImage\\like.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\iconImage\\logo-footer.png",
+      "PackagePath": "staticwebassets\\iconImage\\logo-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\iconImage\\logo.png",
+      "PackagePath": "staticwebassets\\iconImage\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\iconImage\\nolike.png",
+      "PackagePath": "staticwebassets\\iconImage\\nolike.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\iconImage\\share.png",
+      "PackagePath": "staticwebassets\\iconImage\\share.png"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\images\\5fb54077-42b6-4ac5-942a-634408b8ee92_9.jpg",
+      "PackagePath": "staticwebassets\\images\\5fb54077-42b6-4ac5-942a-634408b8ee92_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\images\\7cf66ee3-4008-490a-a1b5-9c9ac763e700_green_texture-wallpaper-1920x1080.jpg",
+      "PackagePath": "staticwebassets\\images\\7cf66ee3-4008-490a-a1b5-9c9ac763e700_green_texture-wallpaper-1920x1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\images\\e14076be-ffa2-41ff-a4bc-1c0dfb72189b_bungalows-3840x2160-4k-hd-wallpaper-reef-french-polynesia-water-594.jpg",
+      "PackagePath": "staticwebassets\\images\\e14076be-ffa2-41ff-a4bc-1c0dfb72189b_bungalows-3840x2160-4k-hd-wallpaper-reef-french-polynesia-water-594.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\160\\index.html",
+      "PackagePath": "staticwebassets\\videojs\\160\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\160\\tv_bg.jpg",
+      "PackagePath": "staticwebassets\\videojs\\160\\tv_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\adapter-latest.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\adapter-latest.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\alt\\video-js-cdn.css",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\alt\\video-js-cdn.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\alt\\video-js-cdn.min.css",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\alt\\video-js-cdn.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\alt\\video.core.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\alt\\video.core.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\alt\\video.core.min.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\alt\\video.core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\alt\\video.core.novtt.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\alt\\video.core.novtt.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\alt\\video.core.novtt.min.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\alt\\video.core.novtt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\alt\\video.novtt.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\alt\\video.novtt.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\alt\\video.novtt.min.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\alt\\video.novtt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\.csslintstamp",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\.csslintstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\.htmllintstamp",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\.htmllintstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\.lintstamp",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\.lintstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\.testcheckstamp",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\.testcheckstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\controls.css",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\controls.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\controls.css.map",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\controls.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\demo.compiled.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\demo.compiled.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\demo.compiled.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\demo.compiled.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\demo.compiled.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\demo.compiled.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\demo.compiled.map",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\demo.compiled.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\demo.css",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\demo.css.map",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\demo.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\deps.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\deps.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\locales.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\locales.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\receiver.compiled.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\receiver.compiled.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\receiver.compiled.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\receiver.compiled.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\receiver.compiled.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\receiver.compiled.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\receiver.compiled.map",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\receiver.compiled.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.compiled.debug.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.compiled.debug.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.compiled.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.compiled.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.compiled.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.compiled.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.compiled.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.compiled.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.compiled.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.compiled.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.compiled.map",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.compiled.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.ui.debug.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.ui.debug.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.ui.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.ui.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.ui.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.ui.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.ui.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.ui.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.ui.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\shaka-player.ui.map",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\shaka-player.ui.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\dist\\wrapper.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\dist\\wrapper.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\font\\VideoJS.svg",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\font\\VideoJS.svg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\font\\VideoJS.ttf",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\font\\VideoJS.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\font\\VideoJS.woff",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\font\\VideoJS.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\index.html",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ar.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ar.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ba.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ba.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ba.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ba.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\bg.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\bg.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ca.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ca.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\cs.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\cs.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\cy.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\cy.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\da.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\da.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\da.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\de.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\de.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\de.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\el.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\el.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\el.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\en.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\en.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\en.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\es.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\es.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\es.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\fa.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\fa.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\fi.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\fi.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\fr.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\fr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\gd.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\gd.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\gd.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\gd.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\gl.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\gl.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\he.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\he.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\he.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\hr.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\hr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\hu.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\hu.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\it.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\it.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\it.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ja.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ja.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ko.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ko.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\nb.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\nb.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\nl.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\nl.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\nn.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\nn.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\nn.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\nn.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\oc.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\oc.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\pl.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\pl.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\pt-BR.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\pt-BR.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\pt-BR.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\pt-BR.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\pt-PT.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\pt-PT.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\pt-PT.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\pt-PT.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\ru.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\ru.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\sk.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\sk.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\sr.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\sr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\sv.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\sv.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\tr.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\tr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\uk.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\uk.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\vi.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\vi.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\zh-CN.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\zh-CN.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\zh-CN.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\zh-CN.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\zh-Hans.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\zh-Hans.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\zh-Hans.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\zh-Hans.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\zh-Hant.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\zh-Hant.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\zh-Hant.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\zh-Hant.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\zh-TW.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\zh-TW.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\lang\\zh-TW.json",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\lang\\zh-TW.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\tv_bg.jpg",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\tv_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\video-js.css",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\video-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\video-js.min.css",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\video-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\video.cjs.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\video.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\video.es.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\video.es.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\video.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\video.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\video.min.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\videojs-contrib-hls.min.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\videojs-contrib-hls.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\2-1\\videojs-ie8.min.js",
+      "PackagePath": "staticwebassets\\videojs\\2-1\\videojs-ie8.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\240\\index.html",
+      "PackagePath": "staticwebassets\\videojs\\240\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\240\\tv_bg.jpg",
+      "PackagePath": "staticwebassets\\videojs\\240\\tv_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\360\\index.html",
+      "PackagePath": "staticwebassets\\videojs\\360\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\360\\tv_bg.jpg",
+      "PackagePath": "staticwebassets\\videojs\\360\\tv_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\720\\index.html",
+      "PackagePath": "staticwebassets\\videojs\\720\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\720\\tv_bg.jpg",
+      "PackagePath": "staticwebassets\\videojs\\720\\tv_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\adapter-latest.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\adapter-latest.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\alt\\video-js-cdn.css",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\alt\\video-js-cdn.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\alt\\video-js-cdn.min.css",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\alt\\video-js-cdn.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\alt\\video.core.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\alt\\video.core.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\alt\\video.core.min.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\alt\\video.core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\alt\\video.core.novtt.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\alt\\video.core.novtt.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\alt\\video.core.novtt.min.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\alt\\video.core.novtt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\alt\\video.novtt.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\alt\\video.novtt.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\alt\\video.novtt.min.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\alt\\video.novtt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\.csslintstamp",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\.csslintstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\.htmllintstamp",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\.htmllintstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\.lintstamp",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\.lintstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\.testcheckstamp",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\.testcheckstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\controls.css",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\controls.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\controls.css.map",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\controls.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\demo.compiled.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\demo.compiled.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\demo.compiled.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\demo.compiled.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\demo.compiled.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\demo.compiled.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\demo.compiled.map",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\demo.compiled.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\demo.css",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\demo.css.map",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\demo.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\deps.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\deps.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\locales.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\locales.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\receiver.compiled.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\receiver.compiled.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\receiver.compiled.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\receiver.compiled.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\receiver.compiled.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\receiver.compiled.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\receiver.compiled.map",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\receiver.compiled.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.compiled.debug.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.compiled.debug.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.compiled.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.compiled.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.compiled.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.compiled.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.compiled.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.compiled.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.compiled.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.compiled.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.compiled.map",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.compiled.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.ui.debug.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.ui.debug.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.ui.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.ui.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.ui.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.ui.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.ui.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.ui.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.ui.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\shaka-player.ui.map",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\shaka-player.ui.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\dist\\wrapper.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\dist\\wrapper.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\font\\VideoJS.svg",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\font\\VideoJS.svg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\font\\VideoJS.ttf",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\font\\VideoJS.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\font\\VideoJS.woff",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\font\\VideoJS.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\index.html",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ar.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ar.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ba.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ba.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ba.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ba.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\bg.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\bg.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ca.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ca.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\cs.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\cs.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\cy.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\cy.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\da.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\da.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\da.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\de.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\de.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\de.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\el.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\el.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\el.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\en.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\en.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\en.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\es.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\es.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\es.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\fa.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\fa.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\fi.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\fi.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\fr.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\fr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\gd.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\gd.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\gd.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\gd.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\gl.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\gl.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\he.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\he.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\he.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\hr.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\hr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\hu.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\hu.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\it.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\it.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\it.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ja.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ja.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ko.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ko.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\nb.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\nb.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\nl.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\nl.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\nn.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\nn.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\nn.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\nn.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\oc.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\oc.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\pl.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\pl.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\pt-BR.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\pt-BR.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\pt-BR.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\pt-BR.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\pt-PT.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\pt-PT.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\pt-PT.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\pt-PT.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\ru.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\ru.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\sk.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\sk.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\sr.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\sr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\sv.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\sv.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\tr.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\tr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\uk.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\uk.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\vi.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\vi.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\zh-CN.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\zh-CN.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\zh-CN.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\zh-CN.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\zh-Hans.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\zh-Hans.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\zh-Hans.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\zh-Hans.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\zh-Hant.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\zh-Hant.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\zh-Hant.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\zh-Hant.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\zh-TW.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\zh-TW.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\lang\\zh-TW.json",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\lang\\zh-TW.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\tv_bg.jpg",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\tv_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\video-js.css",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\video-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\video-js.min.css",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\video-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\video.cjs.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\video.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\video.es.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\video.es.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\video.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\video.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\video.min.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\videojs-contrib-hls.min.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\videojs-contrib-hls.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\Backup\\videojs-ie8.min.js",
+      "PackagePath": "staticwebassets\\videojs\\Backup\\videojs-ie8.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\_tv_bg.jpg",
+      "PackagePath": "staticwebassets\\videojs\\_tv_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\adapter-latest.js",
+      "PackagePath": "staticwebassets\\videojs\\adapter-latest.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\alt\\video-js-cdn.css",
+      "PackagePath": "staticwebassets\\videojs\\alt\\video-js-cdn.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\alt\\video-js-cdn.min.css",
+      "PackagePath": "staticwebassets\\videojs\\alt\\video-js-cdn.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\alt\\video.core.js",
+      "PackagePath": "staticwebassets\\videojs\\alt\\video.core.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\alt\\video.core.min.js",
+      "PackagePath": "staticwebassets\\videojs\\alt\\video.core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\alt\\video.core.novtt.js",
+      "PackagePath": "staticwebassets\\videojs\\alt\\video.core.novtt.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\alt\\video.core.novtt.min.js",
+      "PackagePath": "staticwebassets\\videojs\\alt\\video.core.novtt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\alt\\video.novtt.js",
+      "PackagePath": "staticwebassets\\videojs\\alt\\video.novtt.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\alt\\video.novtt.min.js",
+      "PackagePath": "staticwebassets\\videojs\\alt\\video.novtt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\audio\\index.html",
+      "PackagePath": "staticwebassets\\videojs\\audio\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\audio\\tv_bg.jpg",
+      "PackagePath": "staticwebassets\\videojs\\audio\\tv_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\.csslintstamp",
+      "PackagePath": "staticwebassets\\videojs\\dist\\.csslintstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\.htmllintstamp",
+      "PackagePath": "staticwebassets\\videojs\\dist\\.htmllintstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\.lintstamp",
+      "PackagePath": "staticwebassets\\videojs\\dist\\.lintstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\.testcheckstamp",
+      "PackagePath": "staticwebassets\\videojs\\dist\\.testcheckstamp"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\controls.css",
+      "PackagePath": "staticwebassets\\videojs\\dist\\controls.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\controls.css.map",
+      "PackagePath": "staticwebassets\\videojs\\dist\\controls.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\demo.compiled.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\demo.compiled.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\demo.compiled.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\dist\\demo.compiled.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\demo.compiled.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\demo.compiled.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\demo.compiled.map",
+      "PackagePath": "staticwebassets\\videojs\\dist\\demo.compiled.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\demo.css",
+      "PackagePath": "staticwebassets\\videojs\\dist\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\demo.css.map",
+      "PackagePath": "staticwebassets\\videojs\\dist\\demo.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\deps.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\deps.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\locales.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\locales.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\receiver.compiled.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\receiver.compiled.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\receiver.compiled.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\dist\\receiver.compiled.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\receiver.compiled.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\receiver.compiled.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\receiver.compiled.map",
+      "PackagePath": "staticwebassets\\videojs\\dist\\receiver.compiled.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.compiled.debug.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.compiled.debug.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.compiled.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.compiled.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.compiled.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.compiled.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.compiled.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.compiled.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.compiled.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.compiled.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.compiled.map",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.compiled.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.ui.debug.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.ui.debug.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.ui.debug.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.ui.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.ui.debug.map",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.ui.debug.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.ui.externs.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.ui.externs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.ui.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\shaka-player.ui.map",
+      "PackagePath": "staticwebassets\\videojs\\dist\\shaka-player.ui.map"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\dist\\wrapper.js",
+      "PackagePath": "staticwebassets\\videojs\\dist\\wrapper.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\font\\VideoJS.svg",
+      "PackagePath": "staticwebassets\\videojs\\font\\VideoJS.svg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\font\\VideoJS.ttf",
+      "PackagePath": "staticwebassets\\videojs\\font\\VideoJS.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\font\\VideoJS.woff",
+      "PackagePath": "staticwebassets\\videojs\\font\\VideoJS.woff"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\index.html",
+      "PackagePath": "staticwebassets\\videojs\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ar.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ar.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ba.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ba.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ba.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ba.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\bg.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\bg.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ca.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ca.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\cs.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\cs.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\cy.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\cy.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\da.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\da.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\de.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\de.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\el.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\el.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\en.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\en.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\es.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\es.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\fa.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\fa.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\fi.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\fi.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\fr.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\fr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\gd.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\gd.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\gd.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\gd.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\gl.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\gl.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\he.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\he.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\hr.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\hr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\hu.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\hu.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\it.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\it.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ja.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ja.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ko.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ko.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\nb.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\nb.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\nl.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\nl.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\nn.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\nn.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\nn.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\nn.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\oc.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\oc.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\pl.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\pl.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\pt-BR.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\pt-BR.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\pt-BR.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\pt-BR.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\pt-PT.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\pt-PT.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\pt-PT.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\pt-PT.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\ru.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\ru.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\sk.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\sk.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\sr.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\sr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\sv.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\sv.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\tr.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\tr.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\uk.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\uk.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\vi.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\vi.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\zh-CN.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\zh-CN.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\zh-CN.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\zh-CN.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\zh-Hans.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\zh-Hans.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\zh-Hans.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\zh-Hans.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\zh-Hant.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\zh-Hant.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\zh-Hant.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\zh-Hant.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\zh-TW.js",
+      "PackagePath": "staticwebassets\\videojs\\lang\\zh-TW.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\lang\\zh-TW.json",
+      "PackagePath": "staticwebassets\\videojs\\lang\\zh-TW.json"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\poster2.jpg",
+      "PackagePath": "staticwebassets\\videojs\\poster2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\poster3.jpg",
+      "PackagePath": "staticwebassets\\videojs\\poster3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\roka1.jpg",
+      "PackagePath": "staticwebassets\\videojs\\roka1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\tv_bg.jpg",
+      "PackagePath": "staticwebassets\\videojs\\tv_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\video-js.css",
+      "PackagePath": "staticwebassets\\videojs\\video-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\video-js.min.css",
+      "PackagePath": "staticwebassets\\videojs\\video-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\video.cjs.js",
+      "PackagePath": "staticwebassets\\videojs\\video.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\video.es.js",
+      "PackagePath": "staticwebassets\\videojs\\video.es.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\video.js",
+      "PackagePath": "staticwebassets\\videojs\\video.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\video.min.js",
+      "PackagePath": "staticwebassets\\videojs\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\videojs-contrib-hls.min.js",
+      "PackagePath": "staticwebassets\\videojs\\videojs-contrib-hls.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videojs\\videojs-ie8.min.js",
+      "PackagePath": "staticwebassets\\videojs\\videojs-ie8.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videos\\05371370-3838-47c8-a014-cdc7e0481115_roka-video-2.mp4",
+      "PackagePath": "staticwebassets\\videos\\05371370-3838-47c8-a014-cdc7e0481115_roka-video-2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videos\\55f4f212-ec06-4db2-a023-c42f374238d7_roka-video-4.mp4",
+      "PackagePath": "staticwebassets\\videos\\55f4f212-ec06-4db2-a023-c42f374238d7_roka-video-4.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Titan\\Desktop\\VOD2\\VOD\\wwwroot\\videos\\b0618707-859e-4cb8-841a-82421cdbecec_roka-video-5.mp4",
+      "PackagePath": "staticwebassets\\videos\\b0618707-859e-4cb8-841a-82421cdbecec_roka-video-5.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.VOD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.VOD.props",
+      "PackagePath": "build\\VOD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.VOD.props",
+      "PackagePath": "buildMultiTargeting\\VOD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.VOD.props",
+      "PackagePath": "buildTransitive\\VOD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

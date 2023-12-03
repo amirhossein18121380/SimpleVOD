@@ -1,0 +1,1308 @@
+@font-face {
+    font-family: "Source IranSans";
+    src: url('../fonts/iransans-fonts/eot/IRANSansWeb.eot');
+    src: url('../fonts/iransans-fonts/eot/IRANSansWeb.eot?#iefix') format('embedded-opentype'), url('../fonts/iransans-fonts/ttf/IRANSansWeb.ttf') format('truetype'), url('../fonts/iransans-fonts/woff/IRANSansWeb.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --primary: #36c1c8;
+    --primary-transparent: #05f1fd85;
+    --white: #fff;
+    --white-transparent: #ffffffb5;
+    --orange: #faa622;
+    --dark-blue: #251e51;
+}
+
+* {
+    font-family: "Source IranSans", tahoma;
+}
+
+
+/***********************************/
+
+body::-webkit-scrollbar {
+    width: 12px;
+    /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+    background: #251e51;
+    /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #f9f9f9;
+    /* color of the scroll thumb */
+    border-radius: 20px;
+    /* roundness of the scroll thumb */
+    border: 3px solid #251e51;
+    /* creates padding around scroll thumb */
+}
+
+
+/**/
+
+body {
+    scrollbar-width: thin;
+    /* "auto" or "thin" */
+    scrollbar-color: #f9f9f9 #251e51;
+    /* scroll thumb and track */
+}
+
+
+/**/
+
+
+/* Works on Firefox */
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #f9f9f9 #251e51;
+}
+
+
+/* Works on Chrome, Edge, and Safari */
+
+*::-webkit-scrollbar {
+    width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+    background: #251e51;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #f9f9f9;
+    border-radius: 20px;
+    border: 3px solid #251e51;
+}
+
+
+/***********************************/
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.dis-none {
+    display: none;
+}
+
+
+/*******************************/
+
+
+/* Header */
+
+.header {
+    height: 85px;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.header ul {
+    font-size: 14px;
+    color: #004d80;
+    display: inline-block;
+    margin: 5px!important;
+    font-weight: bold;
+    width: 80%;
+    margin: 27px -25px!important;
+    display: inline-block;
+    width: calc(100% - 200px);
+    margin-right: 100px!important;
+    padding: 0;
+}
+
+.header ul li {
+    display: inline-block;
+    border-left: 2px solid #1f5b84;
+    padding: 0 20px 0;
+    height: 17px;
+    margin: 5px 0;
+}
+
+.header ul li.exit,
+.header ul li.logo {
+    border: none;
+}
+
+.header .online-count {
+    border: 1px solid var(--primary);
+    background-color: var(--primary);
+    color: #fff;
+    font-weight: bold;
+    height: 30px;
+    padding: 4px 10px 4px 5px;
+    left: 0;
+    position: fixed;
+    top: 27px;
+    width: 100px;
+    /* width           : auto; */
+    border-radius: 0 15px 15px 0;
+}
+
+.header .online-count .user-ico {
+    height: 20px;
+    float: left;
+    margin-right: 3px;
+}
+
+.header .logo img {
+    width: 85px;
+    margin: 10px 15px;
+    top: 0;
+    position: absolute;
+    border-radius: 35px 35px 0 0;
+    background: #fff;
+    border: 1px solid #fff;
+    padding: 10px 10px 0 10px;
+}
+
+.header .logo-center {
+    width: 100%;
+    height: 60px;
+    background-color: #241e50;
+    display: none;
+}
+
+
+/* .nav{
+    width: calc(100% - 100px);
+} */
+
+.live {
+    color: #d71921;
+    color: #e1060d;
+    animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+    100% {
+        /* opacity: 30%; */
+        /* color  : #c21921; */
+        /* color  : #004d80; */
+        color: #0d6efd;
+    }
+}
+
+
+/*******************************/
+
+
+/* Container*/
+
+.main-container {
+    /*border: 2px solid var(--primary);*/
+    margin: 160px 2%;
+    margin: 170px 2% auto;
+}
+
+.view-container {
+    /*border: 2px solid yellow;*/
+    height: 85px;
+    top: 0;
+    position: relative;
+    padding: 10px 0;
+}
+
+.view-control {
+    height: 50px;
+    width: 70px;
+    float: left;
+}
+
+.view-container .view-control-btn {
+    border-radius: 30px;
+    height: 50px;
+    width: 50px;
+    background-color: var(--primary);
+    display: inline-block;
+    float: left;
+    margin: 5px 10px -4px 10px;
+    margin: auto 10px -4px 10px;
+    cursor: pointer;
+}
+
+.eq-img {
+    width: 50px;
+    background: url(../images/equal-ico.png) center center no-repeat;
+    background-color: rgba(0, 0, 0, 0);
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-image: url("../images/equal-ico.png");
+    background-size: 30px;
+    background-origin: padding-box;
+    background-clip: border-box;
+    display: inline-block;
+    height: 50px;
+    /* background-size   : 30px; */
+}
+
+.view-control-btn img {
+    width: 30px;
+    margin: 12px 10px;
+}
+
+.view-control .label {
+    font-size: 10px;
+    font-weight: bold;
+    color: var(--primary);
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+
+/* .view-container .view-control .view-control-btn:not(:first-child) {
+    margin-right          : 5px;
+} */
+
+#ViewMode {
+    font-size: 11px;
+    padding: 8px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.modal-body .larg-btn-group {
+    margin: auto;
+}
+
+.modal-body .form {
+    margin: auto;
+    padding: 5px;
+}
+
+.modal-body .small-btn-group {
+    margin: auto;
+    padding: 5px;
+}
+
+.modal-body .modal-btn {
+    background-color: var(--primary-transparent);
+    color: var(--dark-blue);
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.modal-body .large-btn {
+    margin: 5px;
+    padding: 1rem;
+    border-radius: 1rem;
+    width: 100%;
+    text-align: center;
+    /**/
+    margin: 5px auto;
+    min-width: 120px;
+}
+
+.modal-body .small-btn {
+    margin: 1%;
+    padding: .3rem 2rem;
+    border-radius: 1.2rem;
+    max-width: 100px;
+}
+
+.modal-body .cancel-btn {
+    background-color: #dd0103a1;
+    color: var(--white);
+}
+
+.modal-body .input-text {
+    background-color: var(--white-transparent);
+    text-align: right;
+    border: none;
+    margin: 5px;
+    width: 97%;
+    border-radius: 0.6rem;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#FAQBoxModal .modal-header,
+#RateBoxModal .modal-header {
+    background: var(--primary);
+    color: #fff;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    background: transparent;
+    border-bottom: none;
+    height: 10%;
+}
+
+#FAQBoxModal .modal-content,
+#RateBoxModal .modal-content {
+    min-height: 600px;
+    height: 100%;
+    border-radius: 0;
+    /* width     : 100%; */
+    width: 30%;
+}
+
+#FAQBoxModal .modal-footer,
+#RateBoxModal .modal-footer {
+    background: #e1e1e1;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    background: transparent;
+    border-top: none;
+    height: 15%;
+}
+
+#RateBoxModal .modal-header .modal-title {
+    font-size: 1.25rem!important;
+}
+
+#RateBoxModal .modal-content {
+    background: #251e51;
+}
+
+#RateBoxModal .modal-body {
+    background-color: var(--primary);
+    background-image: url(../images/bg.png);
+    background-position: inherit;
+    background-repeat: repeat;
+    background-size: auto;
+    border-radius: 2rem;
+    margin: 15px;
+    padding: 0;
+    height: 75%;
+    overflow: auto;
+}
+
+#RateBoxModal .modal-body .rate-bg {
+    background-color: var(--primary-transparent);
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+    border-radius: 2rem;
+    /* height       : 75%; */
+    overflow: auto;
+}
+
+#RateBoxModal .modal-body .rate-item {
+    background-color: #fbfbfb;
+    width: 100%;
+    height: fit-content;
+    padding: 1rem;
+    border-radius: 2.5rem;
+    min-height: 100px;
+    margin: 15px auto;
+    cursor: pointer;
+}
+
+#FAQBoxModal .modal-footer .close-btn,
+#RateBoxModal .modal-footer .close-btn {
+    margin: auto;
+}
+
+
+/*****/
+
+#FAQBoxModal .modal-content {
+    background-image: url(../images/bg.png);
+    background-color: #211b48;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+#FAQBoxModal .modal-header {
+    text-align: center;
+}
+
+#FAQBoxModal .modal-header .modal-title {
+    margin: auto;
+}
+
+
+/****/
+
+#ChatBoxModal .modal-header {
+    background: var(--primary);
+    color: #fff;
+    border-top-right-radius: calc(1.3rem - 1px);
+    border-top-left-radius: calc(1.3rem - 1px);
+}
+#ChatBoxModal .modal-header .modal-title {
+    margin: auto;
+}
+#ChatBoxModal .modal-content {
+    min-height: 600px;
+    height: 100%;
+    border-radius: 2rem;
+    width: 100%;
+}
+
+#ChatBoxModal .modal-footer {
+    background: #e1e1e1;
+    border-bottom-left-radius: calc(1.3rem - 1px);
+    border-bottom-right-radius: calc(1.3rem - 1px);
+}
+
+#ChatBoxModal .modal-footer #ChatInput {
+    border: none;
+    background: #e1e1e1;
+    right: 5px;
+    position: absolute;
+    width: calc(100% - 95px);
+    resize: none;
+}
+
+.paperclip {
+    background-image: url(../images/paperclip.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 15px;
+    height: 30px;
+    width: 15px;
+}
+.chat-item{
+    margin: 20px auto;
+}
+
+.chat-avatar{
+    background: var(--primary);
+color: var(--white);
+border: 1px solid var(--primary);
+border-radius: 30px;
+height: 40px;
+width: 40px;
+padding: 5px;
+margin: 5px;
+display: inline-block;
+text-align: center;
+line-height: 32px;
+font-size: 24px;
+}
+.chat-msg{
+    padding: 5px;
+    text-align: right;
+    display: inline-block;
+}
+
+#ChatBoxModal .modal-footer #ChatInput:focus,
+#ChatBoxModal .modal-footer #ChatInput:focus-visible {
+    outline: none;
+}
+
+.popup-btn {
+    border-radius: 30px;
+    height: 40px;
+    width: 40px;
+    font-size: 14px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.send-btn {
+    background: var(--primary);
+    color: var(--white);
+}
+
+.close-btn {
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 38px;
+    text-align: center;
+}
+
+.btn-white {
+    color: var(--primary);
+    background: var(--white);
+}
+
+.btn-primary {
+    background: var(--primary);
+    color: var(--white);
+}
+
+.stream-container {
+    /*border: 2px solid red;*/
+    /* height: 55vh; */
+    margin: auto;
+}
+.single-stream{
+    background-color: #36315e;
+    /* position: relative; */
+    /* width: 100%; */
+    max-width: 640px;
+    /* max-height: 360px; */
+    width: 640px;
+    /*height: 360px; */
+    /****/
+    max-width: 678px;
+    /* max-height: 381px; */
+    /* width: 678px; */
+    width: 95%;
+    /* height: 381px; */
+    aspect-ratio: 16 / 9 ; /*16:9 Aspect Ratio - typical video aspect ratio */
+    z-index: -1;
+}
+.video-js .vjs-big-play-button{
+  top: calc(50% - (3em - 65px)) !important;
+  left: calc(50% - (1.63332em - 6px)) !important;
+  margin: auto;
+}
+.control-container {
+    /*border: 2px solid green;
+    background: green;*/
+    height: 75px;
+    bottom: 100px;
+    position: fixed;
+    width: inherit;
+    text-align: center;
+}
+
+.control-container .control-btn1 {
+    margin: auto calc(1% - 2%) auto auto;
+}
+
+.control-container .control-btn1 .control-btn {
+    border-radius: 30px;
+    height: 45px;
+    width: 45px;
+    background-color: var(--primary);
+    display: inline-block;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.control-container .control-btn1 .control-btn.active,
+.control-container .control-btn1 .control-btn:not(.close):hover {
+    background-color: var(--orange);
+}
+
+.chat-btn {
+    float: right;
+    margin: auto 2%;
+    position: relative;
+    cursor: pointer;
+}
+    .chat-btn::after :hover{
+        cursor: pointer;
+    }
+
+    .chat-btn img {
+        height: 45px;
+    }
+
+.control-btn i {
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 45px;
+    width: 45px;
+    display: inline-block;
+    padding: 5px;
+}
+
+.share-screen i {
+    background-image: url(../images/share-desktop.png);
+    background-size: 30px;
+}
+
+.microphone i {
+    background-image: url(../images/microphone.png);
+    background-size: 20px;
+}
+
+.hand i {
+    background-image: url(../images/palm-of-hand.png);
+    background-size: 20px;
+}
+
+.camera i {
+    background-image: url(../images/video-camera.png);
+    background-size: 30px;
+}
+
+.close i {
+    background-image: url(../images/X.png);
+    background-size: 18px;
+}
+
+.close i.active {
+    background-image: url(../images/X-active.png);
+    background-size: 18px;
+}
+
+
+/*********************************************************/
+
+.none-equal .others {
+    /* height: 100%; */
+    height: calc(100vh /2);
+    padding: 2rem;
+}
+
+.none-equal .others.group {
+    overflow: auto;
+}
+
+.none-equal .active {
+    background: #0094ff;
+    height: 100%;
+    margin: 5px auto;
+    /* height: calc(100vh / 2); */
+    width: 100%;
+}
+
+.none-equal .active div {
+    background: #0094ff;
+    height: calc(100% - 10px);
+    width: 100%;
+    margin: 5px;
+}
+
+.none-equal .other {
+    background: #38ff00;
+    height: 13vh;
+    width: 100%;
+    margin: 5px;
+}
+
+
+/**/
+
+.equal .active {
+    height: 100%;
+}
+
+.equal .active div {
+    background: #0094ff;
+    height: calc(100% - 10px);
+    width: 100%;
+    margin: 5px;
+}
+
+.equal .others {
+    /* height: 100%;
+    margin: 10px;*/
+    padding: 10px;
+    /* height: calc(17vw * 1.72); */
+}
+
+.equal .other {
+    background: #b200ff;
+    /* height    : 100%; */
+    margin: 5px auto;
+    height: calc(15vw * 1.72);
+    /* width     : 100%; */
+    padding-top: 75%;
+    padding-top: 68%;
+}
+
+.equal .other.multiple {
+    height: calc(100vh/ 4);
+}
+
+
+/*********************************************************************/
+
+.modal.fade {
+    transition: none;
+}
+
+.modal.show .modal-dialog {
+    transition: none;
+}
+
+.modal.show .modal-dialog {
+    right: 10px;
+    right: 0;
+    position: fixed;
+    height: 98%;
+    width: 96%;
+}
+
+.modal.show .modal-dialog .modal-header {
+    opacity: 0;
+}
+
+.modal.fade .modal-dialog {
+    right: 10px;
+    right: 0;
+    position: fixed;
+    height: 98%;
+    /* width   : 96%; */
+}
+
+.modal.fade .modal-dialog .modal-header {
+    opacity: 1;
+}
+
+
+/* #FAQBoxModal .modal.fade .modal-dialog, #RateBoxModal .modal.fade .modal-dialog { */
+
+#FAQBoxModal .modal.show .modal-dialog,
+#RateBoxModal .modal.show .modal-dialog {
+    right: 0;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+
+/*******************************/
+
+
+/* Footer */
+
+.footer {
+    background-color: var(--primary);
+    height: 85px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer .brand {
+    /* width: 15%;
+    display: inline-block;
+    margin: 10px 2%;
+    text-align: center;
+    width: 17%;
+    display: inline-block;
+    margin: -1% 2%;
+    text-align: center; */
+    /**/
+    text-align: center;
+    width: 25rem;
+    display: table-cell;
+    margin: -1% 2%;
+    text-align: center;
+    position: relative;
+}
+
+.footer .brand img {
+    width: 70px;
+}
+
+.footer .brand .roka img {
+    width: 80px;
+    margin: 5px 0px;
+}
+
+.footer .brand .roka {
+    border: 1px solid var(--primary);
+    bottom: 25px;
+    position: relative;
+    border-radius: 35px;
+    background: var(--primary);
+    padding: 40px 20px;
+    width: auto;
+}
+
+
+/*********************************/
+
+
+/* desktop */
+
+@media (min-width: 576px) {
+    .modal.show .modal-dialog {
+        width: 30%;
+    }
+    .modal.fade .modal-dialog {
+        width: 30%;
+    }
+    #FAQBoxModal .modal-content,
+    #RateBoxModal .modal-content {
+        /* width: 320px; */
+        /* width: 30%; */
+        /* min-height: 735px; */
+        right: 0;
+        position: fixed;
+        height: 100%;
+        top: 0;
+    }
+    #ChatBoxModal .modal-content,
+    .modal-content {
+        /* width: 320px; */
+        width: 30%;
+        min-height: 735px;
+        right: 15px;
+        position: fixed;
+        height: 95%;
+    }
+    .equal .other {
+        /* width: 60%; */
+        padding-top: 23%;
+    }
+    .equal .other.single,
+    .none-equal .active.single {
+        width: 60%;
+        padding-top: 23%;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .equal .other {
+        /* width: 60%; */
+        padding-top: 30%;
+    }
+    .equal .other.single,
+    .none-equal .active.single {
+        width: 60%;
+        padding-top: 30%;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 992px) {
+    #FAQBoxModal .modal-content,
+    #RateBoxModal .modal-content {
+        width: 40%;
+    }
+}
+
+@media (min-width: 1000px) {
+    .single-stream{
+        /* max-width: 640px; */
+        max-width: 678px;
+    }
+    .equal .other {
+        /* width: 60%; */
+        padding-top: 23%;
+    }
+    .equal .other.single,
+    .none-equal .active.single {
+        width: 60%;
+    }
+}
+
+
+/* tablet */
+
+@media (max-width: 974px) and (min-width: 615px) {
+    .header ul {
+        margin-top: 15px!important;
+        margin-bottom: 15px!important;
+    }
+    .header .online-count {
+        top: 42px;
+    }
+    .equal .other {
+        /* width: 67%; */
+        padding-top: 37%;
+        padding-top: 33%;
+    }
+    .equal .other.single,
+    .none-equal .active.single {
+        width: 67%;
+    }
+}
+
+@media (max-width: 614px) {
+    .header {
+        height: 145px;
+    }
+    .header ul {
+        margin-top: -7px!important;
+        width: 100%;
+        margin-right: 0!important;
+    }
+    .header .online-count {
+        top: 104px;
+    }
+    .header .logo-center {
+        display: block;
+    }
+    .header .logo {
+        margin-right: calc(50% - 50px);
+    }
+    .header .logo img {
+        /* padding      : 5px 20px 0 20px; */
+        padding: 1px 15px 0 15px;
+        border-radius: 30px 30px 0 0;
+        margin-right: 0;
+        margin-left: 0;
+        width: 95px;
+    }
+    .view-container {
+        padding: 0;
+        height: 60px;
+    }
+    .main-container {
+        margin: 230px 2%;
+        margin: 220px 2% auto;
+    }
+    /*.equal .other {
+        padding-top: 52%;
+    }*/
+    /* #ChatBoxModal .modal-content, .modal-content {
+        width: 50%;
+    } */
+    .modal-body .large-btn {
+        padding: .5rem;
+    }
+}
+
+@media (max-width: 1126px) and (min-width: 844px) {
+    .single-stream{
+        max-width: 640px;
+        max-width: 678px;
+    }
+    .modal.show .modal-dialog {
+        width: 40%;
+    }
+    .modal.fade .modal-dialog {
+        width: 40%;
+    }
+    #ChatBoxModal .modal-content,
+    .modal-content {
+        width: 40%;
+    }
+}
+
+@media (max-width: 843px) and (min-width: 676px) {
+    .single-stream{
+        max-width: 640px;
+        max-width: 678px;
+    }
+    .modal.show .modal-dialog {
+        width: 46%;
+    }
+    .modal.fade .modal-dialog {
+        width: 46%;
+    }
+    #ChatBoxModal .modal-content,
+    .modal-content {
+        width: 46%;
+    }
+    .footer .brand img {
+        width: 60px;
+    }
+}
+
+@media (max-width: 675px) and (min-width: 576px) {
+
+    .modal.show .modal-dialog {
+        width: 50%;
+    }
+    .modal.fade .modal-dialog {
+        width: 50%;
+    }
+    #ChatBoxModal .modal-content,
+    .modal-content {
+        width: 50%;
+    }
+    .footer .brand img {
+        width: 55px;
+    }
+    .equal .other {
+        /* width: 80%; */
+        padding-top: 27%;
+    }
+    .equal .other.single,
+    .none-equal .active.single {
+        width: 80%;
+    }
+    .none-equal .other {
+        height: 8vh;
+    }
+}
+
+
+/* mobile */
+
+@media (max-width: 575px) {
+    body {
+        background: #211b48 url('../images/bg-mobile.jpg');
+        background-position-x: 0%;
+        background-repeat: repeat;
+        background-size: auto;
+        background-repeat: repeat-x;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position-x: center;
+    }
+    .single-stream{
+        width: 95%;
+    }
+    .footer {
+        height: 60px;
+    }
+    #ChatBoxModal .modal-content,
+    .modal-content {
+        /* width: 75vw; */
+        right: inherit;
+        margin: auto;
+    }
+    #FAQBoxModal .modal-content,
+    #RateBoxModal .modal-content {
+        width: 100%;
+    }
+    .none-equal .others {
+        height: calc(100vh / 3);
+        padding: 1rem;
+    }
+    .none-equal .others.group {
+        height: 100%;
+    }
+    .none-equal .other {
+        width: 30%;
+        height: 10vh;
+    }
+    .none-equal .others .group-row {
+        padding-right: 7px;
+    }
+}
+
+@media (max-width: 575px) and (min-width: 459px) {
+    #ChatBoxModal .modal-content,
+    .modal-content {
+        width: 70%;
+    }
+    .footer .brand {
+        /* width: 14%; */
+        margin: -3% 2%;
+    }
+    .footer .brand img {
+        width: 50px;
+    }
+    .footer .brand .roka{
+        padding: 30px 20px;
+    }
+    .footer .brand .roka img {
+        width: 60px;
+    }
+    .control-container {
+        height: 55px;
+    }
+    .equal .other {
+        padding-top: 34%;
+    }
+}
+
+@media (max-width: 458px) {
+    #ChatBoxModal .modal-content,
+    .modal-content {
+        width: 100%;
+        min-height: auto;
+    }
+    .control-btn i {
+        height: 40px;
+        width: 40px;
+    }
+    .share-screen {
+        background-size: 25px;
+    }
+    .microphone {
+        background-size: 15px;
+    }
+    .hand {
+        background-size: 15px;
+    }
+    .camera {
+        background-size: 25px;
+    }
+    .close {
+        background-size: 13px;
+    }
+    .close.active {
+        background-size: 13px;
+    }
+}
+
+@media (max-width: 458px) and (min-width: 393px) {
+    .header ul {
+        font-size: 13px;
+    }
+    .header ul li {
+        padding: 0 12px 0;
+        height: 17px;
+    }
+    .footer .brand {
+        margin: -3% 2%;
+    }
+    .footer .brand img {
+        width: 50px;
+    }
+    .footer .brand .roka {
+        padding: 30px 20px;
+    }
+    .footer .brand .roka img {
+        width: 60px;
+    }
+    .control-container {
+        height: 50px;
+    }
+    .control-container .control-btn1 .control-btn {
+        height: 40px;
+        width: 40px;
+    }
+    .chat-btn img {
+        height: 40px;
+    }
+    .equal .other {
+        /* padding-top: 45%; */
+        padding-top: unset;
+        /* height  : 229px; */
+        height: calc(100vh/ 4);
+    }
+}
+
+@media (max-width: 392px) {
+    .header ul {
+        font-size: 12px;
+    }
+    .header ul li {
+        padding: 0 7px 0;
+        height: 17px;
+    }
+    .footer .brand {
+        margin: -3% 2%;
+    }
+    .footer .brand img {
+        width: 45px;
+    }
+    .footer .brand .roka {
+        padding: 25px 20px;
+    }
+    .footer .brand .roka img {
+        width: 55px;
+    }
+    .control-container {
+        height: 50px;
+    }
+    .control-container .control-btn1 .control-btn {
+        height: 40px;
+        width: 40px;
+    }
+    .chat-btn img {
+        height: 40px;
+    }
+    .equal .other {
+        padding-top: 40%;
+        height: calc(100vh / 5);
+    }
+}
+
+@media (max-width: 320px) {
+    .none-equal .other {
+        width: 29%;
+    }
+
+    .header .online-count {
+        width: 77px;
+        font-size: 12px;
+    }
+    .header .online-count .user-ico {
+        height: 15px;
+    }
+    .main-container {
+        margin: 205px 2% auto;
+    }
+    .equal .others {
+        padding: 5px;
+    }
+    .view-container {
+        top: -10px;
+    }
+    .view-container .view-control-btn {
+        height: 40px;
+        width: 40px;
+        margin: 5px 5px -4px 5px;
+        margin: auto 5px -4px 5px;
+    }
+    #ViewMode {
+        font-size: 8px;
+    }
+    .view-control-btn img {
+        width: 25px;
+        margin: 9px 7px;
+    }
+    .view-control {
+        width: 55px;
+    }
+    .eq-img {
+        background-size: 25px;
+        height: 40px;
+        width: 40px;
+    }
+    .view-control .label {
+        font-size: 9px;
+        width: 120%;
+    }
+}
+
+@media (max-width: 300px) {
+    .header {
+        height: 140px;
+      }
+    .header ul li {
+        padding: 0 3px 0;
+      }
+      .header .online-count {
+        width: 60px;
+        height: 25px;
+        font-size: 10px;
+      }
+      .header .online-count .user-ico {
+        height: 12px;
+      }
+      .chat-btn img {
+        height: 35px;
+      }
+}
+
+@media (min-width: 768px) {}
+
+@media (max-width: 991.98px) {}
+
+
+/**/
+
+@media (max-width: 575px) and (max-height: 880px) {
+    .none-equal .others {
+        height: calc(100vh / 3.5);
+    }
+}
+
+@media (max-width: 575px) and (max-height: 790px) {
+    .none-equal .others {
+        height: calc(100vh / 4);
+    }
+}
+
+@media (max-width: 575px) and (max-height: 670px) {
+    .none-equal .others {
+        height: calc(100vh / 5);
+        padding: .3rem 1rem;
+    }
+}
+
+@media (max-width: 575px) and (max-height: 570px) {
+    .main-container {
+        margin: 186px 2% auto;
+    }
+}
+
+
+/**************************************************************/
+@media (max-height: 575px) and (orientation: landscape) {
+    .single-stream {
+        max-width: 60%;
+    }
+    .main-container {
+        margin: 135px 2% auto;
+      }
+}
+@media (max-height: 430px) and (orientation: landscape) {
+    .footer{
+        display: none;
+    }
+    .main-container {
+        margin: 93px 2% auto;
+    }
+}

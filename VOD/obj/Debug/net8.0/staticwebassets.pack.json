@@ -1,0 +1,737 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VOD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VOD.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\css\\styel.css",
+      "PackagePath": "staticwebassets\\css\\styel.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\Shabnam-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Shabnam-Bold.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb_Black.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb_Black.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\eot\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\eot\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb_Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb_Black.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\ttf\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb_Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb_Black.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff2\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb_Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb_Black.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\iransans\\woff\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\woff\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Medium-FD-WOL.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Thin-FD-WOL.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-FD.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Medium-FD.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Farsi-Digits\\Shabnam-Thin-FD.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Bold.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Bold.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Bold.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Bold.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Light.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Light.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Light.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Light.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Medium.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Medium.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Medium.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Medium.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Thin.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Thin.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Thin.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam-Thin.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Shabnam.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Shabnam.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Light-WOL.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Medium-WOL.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-Thin-WOL.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.eot"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.ttf"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.woff"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\Without-Latin\\Shabnam-WOL.woff2"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\fontnegar.ir.url",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\fontnegar.ir.url"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\fontnegar.png",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\fontnegar.png"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\fonts\\shabnam\\read me!.txt",
+      "PackagePath": "staticwebassets\\fonts\\shabnam\\read me!.txt"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\iconImage\\bg1.jpg",
+      "PackagePath": "staticwebassets\\iconImage\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\iconImage\\bg2.jpg",
+      "PackagePath": "staticwebassets\\iconImage\\bg2.jpg"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\iconImage\\eye.png",
+      "PackagePath": "staticwebassets\\iconImage\\eye.png"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\iconImage\\like.png",
+      "PackagePath": "staticwebassets\\iconImage\\like.png"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\iconImage\\logo-footer.png",
+      "PackagePath": "staticwebassets\\iconImage\\logo-footer.png"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\iconImage\\logo.png",
+      "PackagePath": "staticwebassets\\iconImage\\logo.png"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\iconImage\\nolike.png",
+      "PackagePath": "staticwebassets\\iconImage\\nolike.png"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\iconImage\\share.png",
+      "PackagePath": "staticwebassets\\iconImage\\share.png"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\new\\MySamples\\VOD\\VOD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VOD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VOD.props",
+      "PackagePath": "build\\VOD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VOD.props",
+      "PackagePath": "buildMultiTargeting\\VOD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VOD.props",
+      "PackagePath": "buildTransitive\\VOD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
